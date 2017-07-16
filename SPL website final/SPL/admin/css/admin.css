@@ -1,0 +1,17 @@
+.heading{
+	margin-bottom: 50px;
+	padding: 10px;
+	background-color: #000066;
+	text-align: center;
+	color: white;
+	font-size: 27;
+}
+.right{
+	float: right;
+	display: inline-block;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.adminmenu{
+	margin-bottom: 10px;
+}
